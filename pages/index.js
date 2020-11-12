@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import { Card } from '../components/Card'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -18,6 +19,16 @@ export default function Home() {
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
+
+        <ul>
+          <Card
+            slug="test"
+            title="Test"
+            type="post"
+            image={{ src: 'https://via.placeholder.com/150' }}
+            date="Today"
+          />
+        </ul>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
