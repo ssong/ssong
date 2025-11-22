@@ -8,6 +8,6 @@ There is an [active investigation](https://www.icc-cpi.int/ukraine) ongoing by t
 
 ## Options for donating to Ukraine directly
 
-Below are a couple of ways of maximising the efficiency of your donation rather than donating through a bureaucratic organisation like the International Committee of the Red Cross (ICRC)
-
 >[Come Back Alive](https://www.comebackalive.in.ua) - Organisation based purely on supplying the Ukrainian Army and volunteer forces with **defensive equiptment, technology, and training**. The emphasis is on saving lives and the organisation does NOT purchase lethal equiptment. They offer card payment options through Fondy.eu, crypto payments, and SWIFT payments.
+
+>[Superhmans Center](https://superhumans.com/en/donate-en/) - Organisation focused on providing support to adults and children affected by the war. Specialising in prosthetics, reconstructive surgery, rehabilitation, and psychological support.
